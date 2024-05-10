@@ -1,0 +1,25 @@
+{
+  "name": "@latha_d_p/videojs-webapp",
+  "version": "2.0.0",
+  "description": "videojs-webapp",
+  "main": "./dist/video.cjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lathadp4/videojs-webapp.git"
+  },
+  "keywords": [
+    "videojs-webapp"
+  ],
+  "author": "latha_d_p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lathadp4/videojs-webapp/issues"
+  },
+  "homepage": "https://github.com/lathadp4/videojs-webapp#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
