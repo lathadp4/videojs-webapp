@@ -1,9 +1,8 @@
-@import "icons";
 @import "variables";
 @import "private-variables";
 @import "utilities";
 
-@import "videojs-font/scss/icons";
+@import "node_modules/videojs-font/scss/icons";
 
 @import "components/layout";
 @import "components/big-play";
@@ -42,8 +41,6 @@
 @import "components/audio";
 @import "components/adaptive";
 @import "components/captions-settings";
-@import "components/title-bar";
-@import "components/skip-buttons";
 
 @import "print";
 

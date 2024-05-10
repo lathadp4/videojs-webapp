@@ -67,5 +67,9 @@
       @include flex(auto);
       display: block;
     }
+
+    &.vjs-no-flex .vjs-custom-control-spacer {
+      width: auto;
+    }
   }
 }
